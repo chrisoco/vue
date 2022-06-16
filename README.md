@@ -9,8 +9,8 @@ npm install
 ### Compiles and hot-reloads for development
 
 ```
-npm run serve: http://localhost:8080
-npm run backend: http://localhost:5000/tasks
+npm run serve   (: ->  http://localhost:8080)
+npm run backend (: -> http://localhost:5000/tasks)
 ```
 
 ### Compiles and minifies for production
